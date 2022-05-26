@@ -3,12 +3,12 @@ body, html{
 }
 
 .card-footer{
-    background: #37AB4D
+    background: #37AB4D;
     color: white;
 }
 
 .has-text-spotted{
-    color: #37AB4D
+    color: #37AB4D;
 }
 
 .has-lineheight-hl{
@@ -16,7 +16,7 @@ body, html{
 }
 
 .is-cta{
-    background: #37AB4D
+    background: #37AB4D;
     color: white;
     font-weight: 600;
     padding-left: 40px !important;
